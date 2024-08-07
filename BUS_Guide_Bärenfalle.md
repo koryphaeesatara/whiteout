@@ -124,7 +124,7 @@ Versatz: 1:40
 1x Slot B: 28:20, 23:10, 18:00, 12:50, 8:00  
 1x Slot C: 26:40, 21:30, 16:20, 10:10, 6:20  
 
-### 4 oder 8 Rallys
+### 4 Rallys
 Versatz: 1:15
 
 1x Slot A: 30:00, 24:50, 19:40, 14:30, 9:40  
@@ -132,9 +132,12 @@ Versatz: 1:15
 1x Slot C: 27:30, 22:20, 17:10, 12:00, 7:10  
 1x Slot D: 26:15, 21:05, 15:55, 10:45, 5:55
 
-Bei 8 Rallys werden 2 Rallys pro Slots gestartet 
+### 8 Rallys
+Zeiten sind wie bei 4 Rallys, nur dass pro Slot 2 Rallys gestartet werden.
+Zum Füllen nimmt man halbe Schwadrone (2 und 3).  
+Ausnahme, der Slotspartner darf mit seinem vollen Schwadron befüllt werden.
 
-### 5 oder 10 Rallys
+### 5 Rallys
 Versatz: 1:00
 
 1x Slot A: 30:00, 24:50, 19:40, 14:30, 9:40  
@@ -143,7 +146,11 @@ Versatz: 1:00
 1x Slot D: 27:00, 21:50, 16:40, 11:30, 6:40  
 1x Slot E: 26:00, 20:50, 15:40, 10:30, 5:40  
 
-Bei 10 Rallys werden 2 Rallys pro Slots gestartet
+### 10 Rallys
+Zeiten sind wie bei 5 Rallys, nur dass pro Slot 2 Rallys gestartet werden.
+Zum Füllen nimmt man halbe Schwadrone (2 und 3).  
+Ausnahme, der Slotspartner darf mit seinem vollen Schwadron befüllt werden.
+
 
 ### 6 oder 12 Rallys
 Versatz: 0:50
@@ -155,4 +162,7 @@ Versatz: 0:50
 1x Slot E: 26:40, 21:30, 16:20, 10:10, 6:20  
 1x Slot F: 25:50, 20:40, 15:30, 10:20, 5:30
 
-Bei 12 Rallys werden 2 Rallys pro Slots gestartet
+### 12 Rallys
+Zeiten sind wie bei 6 Rallys, nur dass pro Slot 2 Rallys gestartet werden.
+Zum Füllen nimmt man halbe Schwadrone (2 und 3).  
+Ausnahme, der Slotspartner darf mit seinem vollen Schwadron befüllt werden.
